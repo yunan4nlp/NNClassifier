@@ -25,7 +25,7 @@ How to compile this project
 
 The format of corpus
 ---
-Label**[Split with tab]**The words of sentences , and split your words with space .</br>
+Label**\[Split with tab\]**The words of sentences , and split your words with space .</br>
 __[s]The#sparse#feature [s]split#with [s]space#too__
 * The example corpus with sparse feature:</br>
 https://github.com/yunan4nlp/NNClassifier/blob/master/sample/sample_sf.txt </br>
