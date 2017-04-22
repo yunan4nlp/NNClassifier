@@ -58,4 +58,4 @@ And Visual Studio 2013 version (or newer) is required in Windows.</br>
 * Eigen:http://eigen.tuxfamily.org/index.php?title=Main_Page </br>
 * LibN3L-2.0:https://github.com/zhangmeishan/LibN3L-2.0 </br>
 * cmake:https://cmake.org/</br>
-* visual studio:https://www.visualstudio.com/zh-hans/free-developer-offers/ </br>
+* Visual Studio:https://www.visualstudio.com/zh-hans/free-developer-offers/ </br>
