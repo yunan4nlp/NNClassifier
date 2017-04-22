@@ -35,9 +35,10 @@ And if in Linux, just use following command. </br>
 
 Test your model
 ---
-If you want to test your model in windows.Please open project properties and add this argument.</br>
+* If you want to test your model in windows.Please open project properties and add this argument.</br>
 `-test /your/test/corpus -output /test/output/file -model /your/model/file` </br>
-And in Linux, the command is `./NNCNNLabeler -test /your/test/corpus -output /test/output/file -model /your/model/file` </br>
+* And in Linux, the command is </br>
+`./NNCNNLabeler -test /your/test/corpus -output /test/output/file -model /your/model/file` </br>
 
 
 NOTE
