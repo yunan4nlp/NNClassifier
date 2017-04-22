@@ -64,8 +64,9 @@ public:
 	void saveModel(std::ofstream &os) const{
 		wordAlpha.write(os);
 		words.save(os);
-		hidden_linear.save(os);
+		featAlpha.write(os);
 		sparse_params.save(os);
+		hidden_linear.save(os);
 		olayer_linear.save(os);
 		labelAlpha.write(os);
 	}
@@ -73,8 +74,9 @@ public:
 	void loadModel(std::ifstream &is, AlignedMemoryPool* mem = NULL){
 		wordAlpha.read(is);
 		words.load(is, &wordAlpha, mem);
+		featAlpha.read(is);
+		sparse_params.load(is, &featAlpha, mem);
 		hidden_linear.load(is, mem);
-		sparse_params.load(is, mem);
 		olayer_linear.load(is, mem);
 		labelAlpha.read(is);
 	}

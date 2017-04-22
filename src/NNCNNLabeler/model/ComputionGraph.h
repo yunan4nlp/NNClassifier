@@ -101,8 +101,7 @@ public:
 		_concat.forward(this, &_avg_pooling, &_max_pooling, &_min_pooling);
 		_neural_output.forward(this, &_concat);
 		
-		if (feature.m_sparse_feats.size() > 0)
-		{
+		if (feature.m_sparse_feats.size() > 0) {
 			_sparse_output.forward(this, feature.m_sparse_feats);
 			_output.forward(this, &_neural_output, &_sparse_output);
 		}

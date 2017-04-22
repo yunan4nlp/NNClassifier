@@ -31,21 +31,16 @@ int Classifier::createAlphabet(const vector<Instance>& vecInsts) {
 
 		m_driver._modelparams.labelAlpha.from_string(label);
 		int words_num = words.size();
-		for (int i = 0; i < words_num; i++) {
+		for (int i = 0; i < words_num; i++)
+		{
 			string curword = normalize_to_lowerwithdigit(words[i]);
 			m_word_stats[curword]++;
 		}
 		int feats_num = sparse_feats.size();
-		for(int i = 0; i < feats_num; i++) {
+		for(int i = 0; i < feats_num; i++)
+		{
 			string curfeat = sparse_feats[i];
 			m_feat_stats[curfeat]++;
-		}
-
-		if ((numInstance + 1) % m_options.verboseIter == 0) {
-			cout << numInstance + 1 << " ";
-			if ((numInstance + 1) % (40 * m_options.verboseIter) == 0)
-				cout << std::endl;
-			cout.flush();
 		}
 
 		if (m_options.maxInstance > 0 && numInstance == m_options.maxInstance)
@@ -63,8 +58,9 @@ int Classifier::createAlphabet(const vector<Instance>& vecInsts) {
 
 int Classifier::addTestAlpha(const vector<Instance>& vecInsts) {
 	cout << "Adding word Alphabet..." << endl;
-	int numInstance;
-	for (numInstance = 0; numInstance < vecInsts.size(); numInstance++) {
+
+
+	for (int numInstance = 0; numInstance < vecInsts.size(); numInstance++) {
 		const Instance *pInstance = &vecInsts[numInstance];
 
 		const vector<string> &words = pInstance->m_words;
@@ -74,18 +70,10 @@ int Classifier::addTestAlpha(const vector<Instance>& vecInsts) {
 			if (!m_options.wordEmbFineTune)m_word_stats[curword]++;
 		}
 
-		if ((numInstance + 1) % m_options.verboseIter == 0) {
-			cout << numInstance + 1 << " ";
-			if ((numInstance + 1) % (40 * m_options.verboseIter) == 0)
-				cout << std::endl;
-			cout.flush();
-		}
-
 		if (m_options.maxInstance > 0 && numInstance == m_options.maxInstance)
 			break;
 	}
 
-	cout << numInstance << ' ' << endl;
 	return 0;
 }
 
@@ -116,7 +104,6 @@ void Classifier::convert2Example(const Instance* pInstance, Example& exam) {
 }
 
 void Classifier::initialExamples(const vector<Instance>& vecInsts, vector<Example>& vecExams) {
-	cout << "initial example....." << endl;
 	int numInstance;
 	for (numInstance = 0; numInstance < vecInsts.size(); numInstance++) {
 		const Instance *pInstance = &vecInsts[numInstance];
