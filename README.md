@@ -38,7 +38,7 @@ Training and save model
 If you want to train and save a classification model in windows.Please open project properties and add this argument. </br>
 `-train training/corpus -dev development/corpus -test test/corpus -option option/file -l -model  model/file` </br>
 **Linux**</br>
-And if in Linux, the argument is same as windows </br>
+If in Linux, the argument is same as Windows </br>
 
 Test your model
 ---
