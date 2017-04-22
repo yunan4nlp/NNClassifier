@@ -6,8 +6,7 @@ This program can train a model for classification task with neural and sparse fe
 
 How to compile this project
 ---
-Windows
-___
+**Windows**</br>
 * Step 0: Open cmd, and change directory to project directory. </br> Use this command `cd /your/project/path/NNClassifier`. </br>
 * Step 1: Create a new directory in NNClassifier. Use this command `mkdir build` </br>
 * Step 2: Change your directory. Use this command `cd build`. </br>
@@ -15,8 +14,7 @@ ___
 * Step 4: Then you can double click "NNClassifier.sln" to open this project. </br>
 * Step 5: Now you can compile this project by Visual Studio. </br>
 
-Linux
-___
+**Linux** </br>
 * Step 0: Open terminal, and change directory to project directory. </br> Use this command `cd /your/project/path/NNClassifier`. </br>
 * Step 1: Create a new directory in NNClassifier. Use this command `mkdir build` </br>
 * Step 2: Change your directory. Use this command `cd build`. </br>
@@ -26,18 +24,18 @@ ___
 
 Training and save model
 ---
-* **Windows**</br>
+**Windows**</br>
 If you want to train and save a classification model in windows.Please open project properties and add this argument. </br>
 `-train training/corpus -dev development/corpus -test test/corpus -option option/file -l -model  model/file` </br>
-* **Linux**</br>
+**Linux**</br>
 And if in Linux, the argument is same as windows </br>
 
 Test your model
 ---
-* **Windows**</br>
+**Windows**</br>
 If you want to test your model in Windows.Please open project properties and add this argument.</br>
 `-test test/corpus -output output/file -model model/file` </br>
-* **Linux** </br>
+**Linux** </br>
 And in Linux, the command is </br>
 `./NNCNNLabeler -test test/corpus -output output/file -model model/file` </br>
 
