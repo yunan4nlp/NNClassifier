@@ -27,7 +27,10 @@ The format of corpus
 ---
 **Label**[Split with tab]The words of sentences , and split your words with space .</br>
 __[s]The#sparse#feature [s]split#with [s]space#too__
-
+* The example corpus with sparse feature:</br>
+https://github.com/yunan4nlp/NNClassifier/blob/master/sample/sample_sf.txt </br>
+* The example corpus with no sparse feature:</br>
+https://github.com/yunan4nlp/NNClassifier/blob/master/sample/sample.txt </br>
 
 Training and save model
 ---
