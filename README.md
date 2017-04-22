@@ -29,7 +29,7 @@ The format of corpus
 __[s]The#sparse#feature [s]split#with [s]space#too__
 * The example corpus with sparse feature:</br>
 https://github.com/yunan4nlp/NNClassifier/blob/master/sample/sample_sf.txt </br>
-* The example corpus with no sparse feature:</br>
+* The example corpus without sparse feature:</br>
 https://github.com/yunan4nlp/NNClassifier/blob/master/sample/sample.txt </br>
 
 Training and save model
@@ -38,7 +38,7 @@ Training and save model
 If you want to train and save a classification model in windows.Please open project properties and add this argument. </br>
 `-train training/corpus -dev development/corpus -test test/corpus -option option/file -l -model  model/file` </br>
 **Linux**</br>
-If in Linux, the argument is same as Windows </br>
+If in Linux, the argument is same as Windows. </br>
 
 Test your model
 ---
