@@ -4,7 +4,7 @@ Introduction
 ---
 This program can train a model for classification task with neural and sparse feature.</br>
 
-How to compile this project in windows
+How to compile this project in Windows
 ---
 * Step 0: Open cmd, and change directory to project directory. </br> Use this command `cd /your/project/path/NNClassifier`. </br>
 * Step 1: Create a new directory in NNClassifier. Use this command `mkdir build` </br>
@@ -25,17 +25,19 @@ The steps are same as in windows.</br>
 
 Training and save model
 ---
+* _Windows_
 If you want to train and save a classification model in windows.Please open project properties and add this argument. </br>
 `-train training/corpus -dev development/corpus -test test/corpus -option option/file -l -model  model/file` </br>
-
-And if in Linux, just use following command. </br>
-`./NNCNNLabeler -train  training/corpus -dev  development/corpus -test  test/corpus -option  option/file -l -model /model/file` </br>
+* _Linux_
+And if in Linux, the argument is same as windows </br>
 
 Test your model
 ---
-* If you want to test your model in windows.Please open project properties and add this argument.</br>
+* _Windows_
+If you want to test your model in Windows.Please open project properties and add this argument.</br>
 `-test test/corpus -output output/file -model model/file` </br>
-* And in Linux, the command is </br>
+* _Linux_ 
+And in Linux, the command is </br>
 `./NNCNNLabeler -test test/corpus -output output/file -model model/file` </br>
 
 
