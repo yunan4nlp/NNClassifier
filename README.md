@@ -25,27 +25,29 @@ The steps are same as in windows.</br>
 
 Training and save model
 ---
-* _Windows_
+* **Windows**
 If you want to train and save a classification model in windows.Please open project properties and add this argument. </br>
 `-train training/corpus -dev development/corpus -test test/corpus -option option/file -l -model  model/file` </br>
-* _Linux_
+* **Linux**
 And if in Linux, the argument is same as windows </br>
 
 Test your model
 ---
-* _Windows_
+* **Windows**
 If you want to test your model in Windows.Please open project properties and add this argument.</br>
 `-test test/corpus -output output/file -model model/file` </br>
-* _Linux_ 
+* **Linux** 
 And in Linux, the command is </br>
 `./NNCNNLabeler -test test/corpus -output output/file -model model/file` </br>
 
 
 NOTE
 ---
-Make sure you have eigen ,LibN3L-2.0, cmake in both Linux and windows</br>
+Make sure you have eigen ,LibN3L-2.0, cmake in both Linux and windows.</br>
+And visual studio 2013 version (or newer) is required in windows.</br>
+
 * Eigen:http://eigen.tuxfamily.org/index.php?title=Main_Page </br>
 * LibN3L-2.0:https://github.com/zhangmeishan/LibN3L-2.0 </br>
 * cmake:https://cmake.org/</br>
-And visual studio 2013 version (or newer) is required in windows.
+
 * visual studio:https://www.visualstudio.com/zh-hans/free-developer-offers/
