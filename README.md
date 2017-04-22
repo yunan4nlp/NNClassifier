@@ -25,8 +25,8 @@ How to compile this project
 
 The format of corpus
 ---
-Label \t The words of sentences , and split your words with space .
-[s]The#sparse#feature [s]split#with [s]space#too
+**Label**[Split with Tab]The words of sentences , and split your words with space .</br>
+__[s]The#sparse#feature [s]split#with [s]space#too__
 
 
 Training and save model
