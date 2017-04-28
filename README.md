@@ -25,9 +25,12 @@ How to compile this project
 
 The format of corpus
 ---
-**Label**[Split with tab]The words of sentences , and split your words with space .</br>
+**Label**[Split with tab]**The words of sentences , and split your words with space .**</br>
 __[s]The#sparse#feature [s]split#with [s]space#too__
-
+* The example corpus with sparse feature:</br>
+https://github.com/yunan4nlp/NNClassifier/blob/master/sample/sample_sf.txt </br>
+* The example corpus without sparse feature:</br>
+https://github.com/yunan4nlp/NNClassifier/blob/master/sample/sample.txt </br>
 
 Training and save model
 ---
@@ -35,7 +38,7 @@ Training and save model
 If you want to train and save a classification model in windows.Please open project properties and add this argument. </br>
 `-train training/corpus -dev development/corpus -test test/corpus -option option/file -l -model  model/file` </br>
 **Linux**</br>
-And if in Linux, the argument is same as windows </br>
+If in Linux, the argument is same as Windows. </br>
 
 Test your model
 ---
@@ -55,4 +58,4 @@ And Visual Studio 2013 version (or newer) is required in Windows.</br>
 * Eigen:http://eigen.tuxfamily.org/index.php?title=Main_Page </br>
 * LibN3L-2.0:https://github.com/zhangmeishan/LibN3L-2.0 </br>
 * cmake:https://cmake.org/</br>
-* visual studio:https://www.visualstudio.com/zh-hans/free-developer-offers/ </br>
+* Visual Studio:https://www.visualstudio.com/zh-hans/free-developer-offers/ </br>
