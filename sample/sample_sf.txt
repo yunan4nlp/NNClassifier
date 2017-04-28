@@ -1,32 +1,47 @@
 1	一 是 扬声器 粗糙 ， 音质 差 ， 播放 音乐 时 有 杂音 。
 [s]uni=一 [s]uni=是 [s]uni=扬声器 [s]uni=粗糙 [s]uni=， [s]uni=音质 [s]uni=差 [s]uni=， [s]uni=播放 [s]uni=音乐 [s]uni=时 [s]uni=有 [s]uni=杂音 [s]uni=。 [s]bi=一##是 [s]bi=是##扬声器 [s]bi=扬声器##粗糙 [s]bi=粗糙##， [s]bi=，##音质 [s]bi=音质##差 [s]bi=差##， [s]bi=，##播放 [s]bi=播放##音乐 [s]bi=音乐##时 [s]bi=时##有 [s]bi=有##杂音 [s]bi=杂音##。 [s]tri=一##是##扬声器 [s]tri=是##扬声器##粗糙 [s]tri=扬声器##粗糙##， [s]tri=粗糙##，##音质 [s]tri=，##音质##差 [s]tri=音质##差##， [s]tri=差##，##播放 [s]tri=，##播放##音乐 [s]tri=播放##音乐##时 [s]tri=音乐##时##有 [s]tri=时##有##杂音 [s]tri=有##杂音##。 
+
 1	电池 不 太 耐用 ， 可能 是 屏幕 大 的 原因 吧 。
 [s]uni=电池 [s]uni=不 [s]uni=太 [s]uni=耐用 [s]uni=， [s]uni=可能 [s]uni=是 [s]uni=屏幕 [s]uni=大 [s]uni=的 [s]uni=原因 [s]uni=吧 [s]uni=。 [s]bi=电池##不 [s]bi=不##太 [s]bi=太##耐用 [s]bi=耐用##， [s]bi=，##可能 [s]bi=可能##是 [s]bi=是##屏幕 [s]bi=屏幕##大 [s]bi=大##的 [s]bi=的##原因 [s]bi=原因##吧 [s]bi=吧##。 [s]tri=电池##不##太 [s]tri=不##太##耐用 [s]tri=太##耐用##， [s]tri=耐用##，##可能 [s]tri=，##可能##是 [s]tri=可能##是##屏幕 [s]tri=是##屏幕##大 [s]tri=屏幕##大##的 [s]tri=大##的##原因 [s]tri=的##原因##吧 [s]tri=原因##吧##。 
+
 1	照相 功能 不错 ， 前置 摄像头 比 N96 的 还 清楚 。
 [s]uni=照相 [s]uni=功能 [s]uni=不错 [s]uni=， [s]uni=前置 [s]uni=摄像头 [s]uni=比 [s]uni=N96 [s]uni=的 [s]uni=还 [s]uni=清楚 [s]uni=。 [s]bi=照相##功能 [s]bi=功能##不错 [s]bi=不错##， [s]bi=，##前置 [s]bi=前置##摄像头 [s]bi=摄像头##比 [s]bi=比##N96 [s]bi=N96##的 [s]bi=的##还 [s]bi=还##清楚 [s]bi=清楚##。 [s]tri=照相##功能##不错 [s]tri=功能##不错##， [s]tri=不错##，##前置 [s]tri=，##前置##摄像头 [s]tri=前置##摄像头##比 [s]tri=摄像头##比##N96 [s]tri=比##N96##的 [s]tri=N96##的##还 [s]tri=的##还##清楚 [s]tri=还##清楚##。 
+
 1	电池 1 天 半 左右 吧 ， 智能机 通病 ， 可以 理解 。
 [s]uni=电池 [s]uni=1 [s]uni=天 [s]uni=半 [s]uni=左右 [s]uni=吧 [s]uni=， [s]uni=智能机 [s]uni=通病 [s]uni=， [s]uni=可以 [s]uni=理解 [s]uni=。 [s]bi=电池##1 [s]bi=1##天 [s]bi=天##半 [s]bi=半##左右 [s]bi=左右##吧 [s]bi=吧##， [s]bi=，##智能机 [s]bi=智能机##通病 [s]bi=通病##， [s]bi=，##可以 [s]bi=可以##理解 [s]bi=理解##。 [s]tri=电池##1##天 [s]tri=1##天##半 [s]tri=天##半##左右 [s]tri=半##左右##吧 [s]tri=左右##吧##， [s]tri=吧##，##智能机 [s]tri=，##智能机##通病 [s]tri=智能机##通病##， [s]tri=通病##，##可以 [s]tri=，##可以##理解 [s]tri=可以##理解##。 
+
 1	性能 差 ， 反应 慢 ， 屏幕 效果 差 ， 手机 质感 差 。
 [s]uni=性能 [s]uni=差 [s]uni=， [s]uni=反应 [s]uni=慢 [s]uni=， [s]uni=屏幕 [s]uni=效果 [s]uni=差 [s]uni=， [s]uni=手机 [s]uni=质感 [s]uni=差 [s]uni=。 [s]bi=性能##差 [s]bi=差##， [s]bi=，##反应 [s]bi=反应##慢 [s]bi=慢##， [s]bi=，##屏幕 [s]bi=屏幕##效果 [s]bi=效果##差 [s]bi=差##， [s]bi=，##手机 [s]bi=手机##质感 [s]bi=质感##差 [s]bi=差##。 [s]tri=性能##差##， [s]tri=差##，##反应 [s]tri=，##反应##慢 [s]tri=反应##慢##， [s]tri=慢##，##屏幕 [s]tri=，##屏幕##效果 [s]tri=屏幕##效果##差 [s]tri=效果##差##， [s]tri=差##，##手机 [s]tri=，##手机##质感 [s]tri=手机##质感##差 [s]tri=质感##差##。 
+
 1	800W 像素 不错 ， 晴天 照相 效果 比 得 上 4S 。
 [s]uni=800W [s]uni=像素 [s]uni=不错 [s]uni=， [s]uni=晴天 [s]uni=照相 [s]uni=效果 [s]uni=比 [s]uni=得 [s]uni=上 [s]uni=4S [s]uni=。 [s]bi=800W##像素 [s]bi=像素##不错 [s]bi=不错##， [s]bi=，##晴天 [s]bi=晴天##照相 [s]bi=照相##效果 [s]bi=效果##比 [s]bi=比##得 [s]bi=得##上 [s]bi=上##4S [s]bi=4S##。 [s]tri=800W##像素##不错 [s]tri=像素##不错##， [s]tri=不错##，##晴天 [s]tri=，##晴天##照相 [s]tri=晴天##照相##效果 [s]tri=照相##效果##比 [s]tri=效果##比##得 [s]tri=比##得##上 [s]tri=得##上##4S [s]tri=上##4S##。 
+
 1	屏幕 大 ， 分辨率 高 ， 显示 效果 好 ， 触屏 手感 好 。
 [s]uni=屏幕 [s]uni=大 [s]uni=， [s]uni=分辨率 [s]uni=高 [s]uni=， [s]uni=显示 [s]uni=效果 [s]uni=好 [s]uni=， [s]uni=触屏 [s]uni=手感 [s]uni=好 [s]uni=。 [s]bi=屏幕##大 [s]bi=大##， [s]bi=，##分辨率 [s]bi=分辨率##高 [s]bi=高##， [s]bi=，##显示 [s]bi=显示##效果 [s]bi=效果##好 [s]bi=好##， [s]bi=，##触屏 [s]bi=触屏##手感 [s]bi=手感##好 [s]bi=好##。 [s]tri=屏幕##大##， [s]tri=大##，##分辨率 [s]tri=，##分辨率##高 [s]tri=分辨率##高##， [s]tri=高##，##显示 [s]tri=，##显示##效果 [s]tri=显示##效果##好 [s]tri=效果##好##， [s]tri=好##，##触屏 [s]tri=，##触屏##手感 [s]tri=触屏##手感##好 [s]tri=手感##好##。 
+
 0	电池 比 我 原来 用 的 诺基亚 N97 好 多 了 。
 [s]uni=电池 [s]uni=比 [s]uni=我 [s]uni=原来 [s]uni=用 [s]uni=的 [s]uni=诺基亚 [s]uni=N97 [s]uni=好 [s]uni=多 [s]uni=了 [s]uni=。 [s]bi=电池##比 [s]bi=比##我 [s]bi=我##原来 [s]bi=原来##用 [s]bi=用##的 [s]bi=的##诺基亚 [s]bi=诺基亚##N97 [s]bi=N97##好 [s]bi=好##多 [s]bi=多##了 [s]bi=了##。 [s]tri=电池##比##我 [s]tri=比##我##原来 [s]tri=我##原来##用 [s]tri=原来##用##的 [s]tri=用##的##诺基亚 [s]tri=的##诺基亚##N97 [s]tri=诺基亚##N97##好 [s]tri=N97##好##多 [s]tri=好##多##了 [s]tri=多##了##。 
+
 0	800万 像素 照相 和 摄像 效果 都 很 不错 。
 [s]uni=800万 [s]uni=像素 [s]uni=照相 [s]uni=和 [s]uni=摄像 [s]uni=效果 [s]uni=都 [s]uni=很 [s]uni=不错 [s]uni=。 [s]bi=800万##像素 [s]bi=像素##照相 [s]bi=照相##和 [s]bi=和##摄像 [s]bi=摄像##效果 [s]bi=效果##都 [s]bi=都##很 [s]bi=很##不错 [s]bi=不错##。 [s]tri=800万##像素##照相 [s]tri=像素##照相##和 [s]tri=照相##和##摄像 [s]tri=和##摄像##效果 [s]tri=摄像##效果##都 [s]tri=效果##都##很 [s]tri=都##很##不错 [s]tri=很##不错##。 
 0	音乐 外放 的 音量 也 很 高 ， 音质 也 不错 。
+
 [s]uni=音乐 [s]uni=外放 [s]uni=的 [s]uni=音量 [s]uni=也 [s]uni=很 [s]uni=高 [s]uni=， [s]uni=音质 [s]uni=也 [s]uni=不错 [s]uni=。 [s]bi=音乐##外放 [s]bi=外放##的 [s]bi=的##音量 [s]bi=音量##也 [s]bi=也##很 [s]bi=很##高 [s]bi=高##， [s]bi=，##音质 [s]bi=音质##也 [s]bi=也##不错 [s]bi=不错##。 [s]tri=音乐##外放##的 [s]tri=外放##的##音量 [s]tri=的##音量##也 [s]tri=音量##也##很 [s]tri=也##很##高 [s]tri=很##高##， [s]tri=高##，##音质 [s]tri=，##音质##也 [s]tri=音质##也##不错 [s]tri=也##不错##。 
+
 0	屏幕 是 加 硬 玻璃 的 ， 十分 结实 抗造
 [s]uni=屏幕 [s]uni=是 [s]uni=加 [s]uni=硬 [s]uni=玻璃 [s]uni=的 [s]uni=， [s]uni=十分 [s]uni=结实 [s]uni=抗造 [s]bi=屏幕##是 [s]bi=是##加 [s]bi=加##硬 [s]bi=硬##玻璃 [s]bi=玻璃##的 [s]bi=的##， [s]bi=，##十分 [s]bi=十分##结实 [s]bi=结实##抗造 [s]tri=屏幕##是##加 [s]tri=是##加##硬 [s]tri=加##硬##玻璃 [s]tri=硬##玻璃##的 [s]tri=玻璃##的##， [s]tri=的##，##十分 [s]tri=，##十分##结实 [s]tri=十分##结实##抗造 
+
 0	听 音乐 声音 小 ， 卡 ， 充电 的 时候 屏幕 不 能 用
 [s]uni=听 [s]uni=音乐 [s]uni=声音 [s]uni=小 [s]uni=， [s]uni=卡 [s]uni=， [s]uni=充电 [s]uni=的 [s]uni=时候 [s]uni=屏幕 [s]uni=不 [s]uni=能 [s]uni=用 [s]bi=听##音乐 [s]bi=音乐##声音 [s]bi=声音##小 [s]bi=小##， [s]bi=，##卡 [s]bi=卡##， [s]bi=，##充电 [s]bi=充电##的 [s]bi=的##时候 [s]bi=时候##屏幕 [s]bi=屏幕##不 [s]bi=不##能 [s]bi=能##用 [s]tri=听##音乐##声音 [s]tri=音乐##声音##小 [s]tri=声音##小##， [s]tri=小##，##卡 [s]tri=，##卡##， [s]tri=卡##，##充电 [s]tri=，##充电##的 [s]tri=充电##的##时候 [s]tri=的##时候##屏幕 [s]tri=时候##屏幕##不 [s]tri=屏幕##不##能 [s]tri=不##能##用 
+
 0	晚上 玩 按键 不 会 亮 看 不 见 呀 有木有 ！
 [s]uni=晚上 [s]uni=玩 [s]uni=按键 [s]uni=不 [s]uni=会 [s]uni=亮 [s]uni=看 [s]uni=不 [s]uni=见 [s]uni=呀 [s]uni=有木有 [s]uni=！ [s]bi=晚上##玩 [s]bi=玩##按键 [s]bi=按键##不 [s]bi=不##会 [s]bi=会##亮 [s]bi=亮##看 [s]bi=看##不 [s]bi=不##见 [s]bi=见##呀 [s]bi=呀##有木有 [s]bi=有木有##！ [s]tri=晚上##玩##按键 [s]tri=玩##按键##不 [s]tri=按键##不##会 [s]tri=不##会##亮 [s]tri=会##亮##看 [s]tri=亮##看##不 [s]tri=看##不##见 [s]tri=不##见##呀 [s]tri=见##呀##有木有 [s]tri=呀##有木有##！ 
+
 0	外形 个性 ， 全 键盘 手感 舒适 ， 触摸 屏感 应 非常 好 。
 [s]uni=外形 [s]uni=个性 [s]uni=， [s]uni=全 [s]uni=键盘 [s]uni=手感 [s]uni=舒适 [s]uni=， [s]uni=触摸 [s]uni=屏感 [s]uni=应 [s]uni=非常 [s]uni=好 [s]uni=。 [s]bi=外形##个性 [s]bi=个性##， [s]bi=，##全 [s]bi=全##键盘 [s]bi=键盘##手感 [s]bi=手感##舒适 [s]bi=舒适##， [s]bi=，##触摸 [s]bi=触摸##屏感 [s]bi=屏感##应 [s]bi=应##非常 [s]bi=非常##好 [s]bi=好##。 [s]tri=外形##个性##， [s]tri=个性##，##全 [s]tri=，##全##键盘 [s]tri=全##键盘##手感 [s]tri=键盘##手感##舒适 [s]tri=手感##舒适##， [s]tri=舒适##，##触摸 [s]tri=，##触摸##屏感 [s]tri=触摸##屏感##应 [s]tri=屏感##应##非常 [s]tri=应##非常##好 [s]tri=非常##好##。 
+
 0	外形 个性 ， 全 键盘 手感 舒适 ， 触摸 屏感 应 非常 好 。
 [s]uni=外形 [s]uni=个性 [s]uni=， [s]uni=全 [s]uni=键盘 [s]uni=手感 [s]uni=舒适 [s]uni=， [s]uni=触摸 [s]uni=屏感 [s]uni=应 [s]uni=非常 [s]uni=好 [s]uni=。 [s]bi=外形##个性 [s]bi=个性##， [s]bi=，##全 [s]bi=全##键盘 [s]bi=键盘##手感 [s]bi=手感##舒适 [s]bi=舒适##， [s]bi=，##触摸 [s]bi=触摸##屏感 [s]bi=屏感##应 [s]bi=应##非常 [s]bi=非常##好 [s]bi=好##。 [s]tri=外形##个性##， [s]tri=个性##，##全 [s]tri=，##全##键盘 [s]tri=全##键盘##手感 [s]tri=键盘##手感##舒适 [s]tri=手感##舒适##， [s]tri=舒适##，##触摸 [s]tri=，##触摸##屏感 [s]tri=触摸##屏感##应 [s]tri=屏感##应##非常 [s]tri=应##非常##好 [s]tri=非常##好##。 
+
 0	外形 个性 ， 触摸 屏感 应 非常 好 。
 [s]uni=外形 [s]uni=个性 [s]uni=， [s]uni=触摸 [s]uni=屏感 [s]uni=应 [s]uni=非常 [s]uni=好 [s]uni=。 [s]bi=外形##个性 [s]bi=个性##， [s]bi=，##触摸 [s]bi=触摸##屏感 [s]bi=屏感##应 [s]bi=应##非常 [s]bi=非常##好 [s]bi=好##。 [s]tri=外形##个性##， [s]tri=个性##，##触摸 [s]tri=，##触摸##屏感 [s]tri=触摸##屏感##应 [s]tri=屏感##应##非常 [s]tri=应##非常##好 [s]tri=非常##好##。 

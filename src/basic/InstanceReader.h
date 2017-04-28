@@ -17,24 +17,35 @@ public:
 	}
 
 	Instance *getNext() {
-		m_instance.clear();
-		string strLine1, strLine2;
-		if (!my_getline(m_inf, strLine1))
-			return NULL;
-		if (!my_getline(m_inf, strLine2))
-			return NULL;
-		if (strLine1.empty())
-			return NULL;
 
+		m_instance.clear();
+		vector<string> vecLine;
+		while (1) {
+			string strLine;
+			if (!my_getline(m_inf, strLine)) {
+				break;
+			}
+			if (strLine.empty())
+				break;
+			vecLine.push_back(strLine);
+		}
+
+		if (vecLine.size() == 0)
+			return NULL;
 
 		vector<string> vecInfo;
-		split_bychars(strLine1, vecInfo, "\t");
-		m_instance.m_label = vecInfo[0];
+		if (vecLine.size() >= 1) {
+			split_bychars(vecLine[0], vecInfo, "\t");
+			m_instance.m_label = vecInfo[0];
+			split_bychar(vecInfo[1], m_instance.m_words, ' ');
+		}
 
-		split_bychar(vecInfo[1], m_instance.m_words, ' ');
-		split_bychar(strLine2, m_instance.m_sparse_feats, ' ');
+		if(vecLine.size() >= 2)
+			split_bychar(vecLine[1], m_instance.m_sparse_feats, ' ');
+
 		return &m_instance;
 	}
+
 };
 
 #endif
