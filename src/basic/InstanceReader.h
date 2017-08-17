@@ -3,6 +3,7 @@
 
 #include "Reader.h"
 #include "N3L.h"
+#include "Utf.h"
 #include <sstream>
 
 using namespace std;
@@ -38,6 +39,10 @@ public:
 			split_bychars(vecLine[0], vecInfo, "\t");
 			m_instance.m_label = vecInfo[0];
 			split_bychar(vecInfo[1], m_instance.m_words, ' ');
+			int word_num = m_instance.m_words.size();
+			for(int idx = 0; idx < word_num; idx++) {
+				m_instance.m_words[idx] = normalize_to_lowerwithdigit(m_instance.m_words[idx]);
+			}
 		}
 
 		if(vecLine.size() >= 2)

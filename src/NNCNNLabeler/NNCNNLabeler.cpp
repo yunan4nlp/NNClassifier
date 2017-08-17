@@ -32,7 +32,7 @@ int Classifier::createAlphabet(const vector<Instance>& vecInsts) {
 		m_driver._modelparams.labelAlpha.from_string(label);
 		int words_num = words.size();
 		for (int i = 0; i < words_num; i++) {
-			string curword = normalize_to_lowerwithdigit(words[i]);
+			string curword = words[i];
 			m_word_stats[curword]++;
 		}
 		int feats_num = sparse_feats.size();
@@ -70,7 +70,7 @@ int Classifier::addTestAlpha(const vector<Instance>& vecInsts) {
 		const vector<string> &words = pInstance->m_words;
 		int curInstSize = words.size();
 		for (int i = 0; i < curInstSize; ++i) {
-			string curword = normalize_to_lowerwithdigit(words[i]);
+			string curword = words[i];
 			if (!m_options.wordEmbFineTune)m_word_stats[curword]++;
 		}
 
